@@ -1,0 +1,14 @@
+#mapid { 
+	height: 500px;
+}
+
+.comment {
+	border-bottom-color: grey;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	padding-bottom: 3px;
+}
+
+.comment-section {
+	margin-left: 10px;
+}
